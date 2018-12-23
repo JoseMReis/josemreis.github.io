@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>/post/coming_soon/coming-soon/</loc>
+      <loc>/post/blogposts_coming_soon/2018-12-23-blog-posts-coming-soon/</loc>
       <lastmod>2018-12-23T00:00:00+00:00</lastmod>
     </url>
     
@@ -22,6 +22,15 @@
     
       <loc>/research/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2018-12-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -47,7 +56,6 @@
     
       <loc>/post/</loc>
       <lastmod>2018-12-23T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -63,6 +71,7 @@
     <url>
     
       <loc>/tags/</loc>
+      <lastmod>2018-12-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
