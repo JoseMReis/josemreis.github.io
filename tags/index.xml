@@ -21,5 +21,41 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Dissertation</title>
+      <link>/tags/dissertation/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post in english</title>
+      <link>/tags/post-in-english/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/post-in-english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public International Law</title>
+      <link>/tags/public-international-law/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/public-international-law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transparency Web-scraping</title>
+      <link>/tags/transparency-web-scraping/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transparency-web-scraping/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

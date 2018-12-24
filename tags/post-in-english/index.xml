@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on José M. Reis</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on José M. Reis</description>
+    <title>Post in english on José M. Reis</title>
+    <link>/tags/post-in-english/</link>
+    <description>Recent content in Post in english on José M. Reis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 24 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/post-in-english/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <guid>/post/secret-international-agreements-evidence-from-uk/secret-international-agreements-evidence-from-uk/</guid>
       <description>Sykes-Picot, Trotsky, and the Prohibition Against Secret International AgreementsSykes-Picot, Trotsky, and the Prohibition Against Secret International AgreementsFollowing its 100th birthday, the Sykes-Picot Agreement1, officially known as the Asia Minor Agreement, re-entered the public sphere mostly due to its looming legacy2.
 Colonel Sir Mark SykesAnd it is understandable why. In this agreement, which received its name from being negotiated by the british diplomat Mark Sykes and its french counter-part Francois Georges-Picot, the British and French powers (later assented by the Russian Empire) covertly agreed on how the falling Ottoman Empire should be carved out.</description>
-    </item>
-    
-    <item>
-      <title>Blog posts coming soon</title>
-      <link>/post/blogposts_coming_soon/2018-12-23-blog-posts-coming-soon/</link>
-      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/blogposts_coming_soon/2018-12-23-blog-posts-coming-soon/</guid>
-      <description>A couple of blog posts related with my research and R coming soon, still very much a work in progress though&amp;hellip;</description>
     </item>
     
   </channel>
