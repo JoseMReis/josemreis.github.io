@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 24 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/post-in-english/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Exploring UK&#39;s Unpublished International Agreements</title>
       <link>/post/secret-international-agreements-evidence-from-uk/secret-international-agreements-evidence-from-uk/</link>
-      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/secret-international-agreements-evidence-from-uk/secret-international-agreements-evidence-from-uk/</guid>
       <description>“Sykes-Picot”, Trotsky, and the Prohibition Against Secret International Agreements“Trotsky-leaks” and its impact on public opinionThe prohibition against secret International AgreementsSome theory: why write it down? or why secret treaties are quite puzzlingStarting point: a (very) brief intro to compliance theoryThe puzzle: most mechanisms of compliance are not applicable to secret treaties, so why bother?Empirical analysis of UK’s unpublished International AgreementsPreparing the dataData wranglingExploratory data analysis 1: UK treaty practiceExploratory data analysis 2: UK’s treaty-publicity practicesHopefully, something for every one on this one: some Law, some International Politics, some History, and some R Programming and data analysis.</description>
