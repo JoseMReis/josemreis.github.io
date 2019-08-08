@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on José M. Reis</title>
-    <link>/research/</link>
+    <link>https://josemreis.github.io/research/</link>
     <description>Recent content in Research on José M. Reis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://josemreis.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
