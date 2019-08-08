@@ -1,24 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>José M. Reis</title>
+    <title>Tags on José M. Reis</title>
     <link>https://josemreis.github.io/tags/</link>
-    <description>Recent content on José M. Reis</description>
+    <description>Recent content in Tags on José M. Reis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 23 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://josemreis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog posts coming soon</title>
-      <link>https://josemreis.github.io/post/blogposts_coming_soon/2018-12-23-blog-posts-coming-soon/</link>
-      <pubDate>Sun, 23 Dec 2018 00:00:00 +0100</pubDate>
+      <title></title>
+      <link>https://josemreis.github.io/tags/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://josemreis.github.io/post/blogposts_coming_soon/2018-12-23-blog-posts-coming-soon/</guid>
-      <description>A couple of blog posts related with my research and R coming soon, still very much a work in progress though&amp;hellip;</description>
+      <guid>https://josemreis.github.io/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data analysis</title>
+      <link>https://josemreis.github.io/tags/data-analysis/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://josemreis.github.io/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissertation</title>
+      <link>https://josemreis.github.io/tags/dissertation/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://josemreis.github.io/tags/dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post in english</title>
+      <link>https://josemreis.github.io/tags/post-in-english/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://josemreis.github.io/tags/post-in-english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public International Law</title>
+      <link>https://josemreis.github.io/tags/public-international-law/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://josemreis.github.io/tags/public-international-law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://josemreis.github.io/tags/r/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://josemreis.github.io/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transparency</title>
+      <link>https://josemreis.github.io/tags/transparency/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://josemreis.github.io/tags/transparency/</guid>
+      <description></description>
     </item>
     
   </channel>
