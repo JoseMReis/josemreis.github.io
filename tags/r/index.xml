@@ -18,7 +18,7 @@
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/secret-international-agreements-evidence-from-uk/secret-international-agreements-evidence-from-uk/</guid>
-      <description>“Sykes-Picot”, Trotsky, and the Prohibition Against Secret International Agreements“Trotsky-leaks” and its impact on public opinionThe prohibition against secret International AgreementsSome theory: why write it down? or why secret treaties are quite puzzlingStarting point: a (very) brief intro to compliance theoryThe puzzle: most mechanisms of compliance are not applicable to secret treaties, so why bother?Empirical analysis of UK’s unpublished International AgreementsPreparing the dataData wranglingExploratory data analysis 1: UK treaty practiceExploratory data analysis 2: UK’s treaty-publicity practicesHopefully, something for every one on this one: some Law, some International Politics, some History, and some R Programming and data analysis.</description>
+      <description>The law and history of secret international agreements complemented with an empirical analysis of unpublished international agreements using R</description>
     </item>
     
   </channel>
